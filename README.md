@@ -8,4 +8,4 @@
 
 [patika.dev](https://www.patika.dev/tr)
 
-(http://127.0.0.1:5500/cream-caramel.html)
+[cream-caramel](http://127.0.0.1:5500/cream-caramel.html)
