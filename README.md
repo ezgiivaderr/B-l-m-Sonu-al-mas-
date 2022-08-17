@@ -9,7 +9,4 @@
 [patika.dev](https://www.patika.dev/tr)
 
 [cream-caramel](http://127.0.0.1:5500/cream-caramel.html)
-<<<<<<< HEAD
 
-=======
->>>>>>> bada0f78fc50cdb162f03de826caf155a9bc7ebd
